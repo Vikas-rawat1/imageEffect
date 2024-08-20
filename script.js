@@ -1,5 +1,5 @@
 Shery.imageEffect(".images", {
-  style: 3,
+  style: 3,sd
   // debug: true,
   config: {
     resolutionXY: { value: 25.68 },
@@ -15,7 +15,7 @@ Shery.imageEffect(".images", {
     color: { value: 10212607 },
     pixelStrength: { value: 3, range: [-20, 100], rangep: [-20, 20] },
     quality: { value: 5, range: [0, 10] },
-    contrast: { value: 1, range: [-25, 25] },s
+    contrast: { value: 1, range: [-25, 25] },
     brightness: { value: 1, range: [-1, 25] },
     colorExposer: { value: 0.18, range: [-5, 5] },
     strength: { value: 0.2, range: [-40, 40], rangep: [-5, 5] },
