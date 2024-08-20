@@ -1,6 +1,8 @@
 # Multiple Image Scroll Effect
 
-All 3D effects in this library supports multi image with wave scroll effect which increases the productivity and usability of effect, offering a unique and interactive experience.## Installation
+This project features a multi-image wave scroll effect, designed to enhance both productivity and usability. As users scroll, images flow smoothly in a wave-like motion, creating a dynamic and engaging visual experience. Perfect for adding a modern touch to any web project.
+
+## Installation
 
 Installation Started with Cloning and Setup
 
