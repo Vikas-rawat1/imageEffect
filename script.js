@@ -1,5 +1,5 @@
 Shery.imageEffect(".images", {
-  style: 3,dd
+  style: 3,
   // debug: true,
   config: {
     resolutionXY: { value: 25.68 },
